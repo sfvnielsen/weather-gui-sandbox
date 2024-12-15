@@ -1,12 +1,12 @@
 # weather-gui-sandbox
-A sandbox Python project to learn about GUI frameworks and data visualization.
+A sandbox Python project to learn about webframework and data visualization.
 
 ## Idea for version 0.1
-* A GUI window, where the user can choose a city in Denmark and get historical temperature data visualized.
+* A webservice (spawned locally), where the user can choose a city in Denmark and get historical temperature data visualized.
 * Application should feature
   * A configuration step for setting up API key to the [DMI weather data service](https://www.dmi.dk/friedata/klimadata)
   * A plot window where data can be shown
-* Frameworks to be used could be: TKinter, matplotlib, numpy, pytest
+* Frameworks to be used could be: dash, matplotlib, numpy, pytest
 
 ### Possible extensions
 * Supporting other sources of weather data
